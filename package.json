@@ -1,0 +1,25 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "Sample project",
+  "scripts": {
+    "start": "parcel src/*.html --open",
+    "build": "parcel build src/*.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A14313/landing-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A14313/landing-page/issues"
+  },
+  "homepage": "https://github.com/A14313/landing-page#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.2",
+    "parcel": "^2.6.2",
+    "sass": "^1.53.0"
+  }
+}

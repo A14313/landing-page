@@ -1,0 +1,15 @@
+@use 'sass:map';
+
+$colors: (
+    primary-400: hsl(228, 39%, 23%),
+    
+    accent-400: hsl(12, 88%, 59%),
+    accent-100: hsl(13, 100%, 96%),
+    
+    neutral-900: hsl(0, 0%, 0%),
+    neutral-100: hsl(232, 12%, 13%)
+);
+
+@function color($key) {
+    @return map.get($colors, $key);
+}

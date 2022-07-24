@@ -1,4 +1,4 @@
-4352
+4360
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\LT.js133025966957815848 0
 93C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel133025967531999519 1
 105C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\node-gyp-build133025966972966912 0
@@ -26,6 +26,10 @@
 94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\chokidar133025966091991940 1
 106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\postcss-value-parser133025966649212982 1
 87C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\.gitattributes133025944632013795 0
+89C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\js\toggle.js133031222049960995 0
+107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\index.js133025966639304139 0
+116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\type-fest\source\value-of.d.ts133025966743807391 0
+116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\xxhash-wasm\esm\xxhash-wasm.js133025966626105010 0
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\util\when.js133025966866501691 0
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\browserslist.ps1133025966972956930 0
 85C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\package.json133025967532603006 0
@@ -40,9 +44,12 @@
 94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\css-what133025966671691355 1
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\posthtml-parser\dist\location-tracker.d.ts133025966652611821 0
 83C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\.gitignore133026629725494955 0
-76C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src133025969150772896 1
+76C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src133031211394048432 1
 141C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\test\fixtures\invalid-targets\package.json133025966876249812 0
-77C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist133030549518318742 1
+77C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist133031242597126393 1
+109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@lezer\lr\dist\index.js133025966651760025 0
+79C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\js133031211444589105 1
+122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\summarizeRequest.js133025966867031317 0
 80C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\LICENSE133025944632003799 0
 126C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\websockets.js133025966971657833 0
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\input-color.js133025966950757695 0
@@ -73,7 +80,7 @@
 87C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\style-guide.md133019549740000000 0
 129C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\watcher\src\linux\InotifyBackend.hh133025966711891014 0
 97C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@jridgewell133025966613171735 1
-87C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\index.html133030532725213333 0
+87C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\index.html133031226862450591 0
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\is-glob\README.md133025966090602211 0
 157C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias\source.js133025966839872133 0
 137C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133025966674409585 0
@@ -85,7 +92,7 @@
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\yaml\dist\warnings-1000a372.js133025966763299556 0
 90C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@swc133025966613141877 1
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\AO.js133025966717409143 0
-91C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\scss\main.scss133030549931824460 0
+91C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\scss\main.scss133031242594696967 0
 115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\css-tree\lib\lexer\generic.js133025966775468326 0
 96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\fill-range133025966090291685 1
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\supports-color\index.js133025966626894454 0
@@ -166,12 +173,6 @@
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\input-number.js133025966952133962 0
 106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\src\images\illustration-intro.svg133019549740000000 0
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\graph\test\ContentGraph.test.js133025966665334943 0
-108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\entities\lib\generated133025966683414077 1
-96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\color-name133025966630101002 1
-98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\sass\sass.js133025966092860351 0
-117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\PR.js133025966960890153 0
-109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\lib\stringifier.js133025966830196799 0
-100C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\terser\main.js133025966751064034 0
 98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist133025966656651539 1
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\JP.js133025966953769826 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\workers\src\backend.js133025966642324202 0
@@ -269,6 +270,12 @@
 98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\plugins133025966826026294 1
 140C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json133025966656141904 0
 99C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\color-convert133025966645600886 1
+108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\entities\lib\generated133025966683414077 1
+96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\color-name133025966630101002 1
+98C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\sass\sass.js133025966092860351 0
+117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\PR.js133025966960890153 0
+109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\lib\stringifier.js133025966830196799 0
+100C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\terser\main.js133025966751064034 0
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\dist\lib133025966963546619 1
 114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\plugins\_collections.js133025966638033190 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\url.js133025966970238870 0
@@ -739,14 +746,14 @@
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\SY.js133025966965295390 0
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\node_modules\node-addon-api\nothing.c133025966663905959 0
 108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\yaml\browser\schema.js133025966732612193 0
+125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\plugins\cleanupEnableBackground.js133025966657440982 0
+107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\source-map-js\LICENSE133025966089820051 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\csso\lib\replace\color.js133025966667149598 0
 105C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\yaml\browser\seq.js133025966736749067 0
 130C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\serviceworkers.js133025966962257462 0
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@jridgewell\trace-mapping\src\by-source.ts133025966661987312 0
 122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\dist\unpacker\region.js133025966961430081 0
 115C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\immutable\dist\immutable.d.ts133025966094100886 0
-107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\source-map-js\LICENSE133025966089820051 0
-125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\plugins\cleanupEnableBackground.js133025966657440982 0
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\node-gyp-build-optional-packages\README.md133025966650287736 0
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-terser133025966663246488 1
 137C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133025966679931497 0
@@ -842,8 +849,6 @@
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\GE.js133025966889804063 0
 132C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\node-gyp-build-optional-packages-test.cmd133025966972976910 0
 101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\xxhash-wasm\umd133025966647463844 1
-116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\type-fest\source\value-of.d.ts133025966743807391 0
-116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\xxhash-wasm\esm\xxhash-wasm.js133025966626105010 0
 120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map133025966645750958 0
 122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@swc\helpers\lib\_super_prop_base.js133025966831510449 0
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-htmlnano\package.json133025966666568818 0
@@ -1192,8 +1197,8 @@
 114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\source-map-support\README.md133025966649762918 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\utils\src\glob.js133025966738792619 0
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\term-size\vendor\.DS_Store133025966624346224 0
-94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\bin133025966624785922 1
 134C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest.c133025966834358562 0
+94C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\bin133025966624785922 1
 113C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\source-map-js\lib\base64.js133025966090666215 0
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\namer-default\src\DefaultNamer.js133025966668562311 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\svgo\plugins\removeEmptyAttrs.js133025966763382360 0
@@ -1518,9 +1523,9 @@
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\lib\Dependency.js133025966834150524 0
 118C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\entities\lib\decode_codepoint.js133025966625395536 0
 113C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\regenerator-runtime\path.js133025966624755952 0
-116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\regenerator-runtime\runtime.js133025966629581375 0
 123C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\node-gyp-build-optional-packages133025966972966912 0
 126C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\array-find.js133025966725493614 0
+116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\regenerator-runtime\runtime.js133025966629581375 0
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\htmlparser2\lib\WritableStream.d.ts.map133025966659029444 0
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\readdirp\index.js133025966089939994 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\let.js133025966954608016 0
@@ -1744,7 +1749,7 @@
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl.h133025966863873562 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@jridgewell\gen-mapping\README.md133025966645851034 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\nth-check\lib\esm\compile.d.ts133025966679981450 0
-109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\illustration-intro.240c9eda.svg133030547027915760 0
+109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\illustration-intro.240c9eda.svg133031201231252823 0
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\regions\MK.js133025966958781528 0
 121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\transformer-postcss\LICENSE133025966645610903 0
 145C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\dom-serializer\node_modules\entities\lib\maps\entities.json133025966650157852 0
@@ -1817,8 +1822,8 @@
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\css\node\index.js133025966640885115 0
 124C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@jridgewell\sourcemap-codec\dist\types133025966650567861 1
 120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\node-addon-api\tools\conversion.js133025966664325659 0
-135C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133025966835237710 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\node-addon-api\tools\README.md133025966680181345 0
+135C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest2.c133025966835237710 0
 96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\dotenv\lib133025966650257759 1
 108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\compressor-raw133025966663496256 1
 130C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\transformer-postcss\lib\constants.js133025966649442839 0
@@ -2959,6 +2964,7 @@
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\chacha20-poly1305.js133025966850441358 0
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\channel-messaging.js133025966850594391 0
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\classlist.js133025966851416116 0
+105C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\icon-hamburger.e30fa745.svg133031201231602580 0
 122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@lmdb\lmdb-win32-x64\node.abi83.node133025966746667350 0
 127C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\css-lch-lab.js133025966874991978 0
 147C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js133025966851635964 0
@@ -3115,8 +3121,8 @@
 122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\dnssec.js133025966879207725 0
 151C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@swc\helpers\src\_class_check_private_static_field_descriptor.mjs133025966850633704 0
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\do-not-track.js133025966879247690 0
-138C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\document-currentscript.js133025966879317641 0
 145C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.napi.node133025966655232547 0
+138C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\document-currentscript.js133025966879317641 0
 139C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js133025966879347625 0
 136C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\caniuse-lite\data\features\document-execcommand.js133025966879377599 0
 149C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg133025966847386943 1
@@ -3402,7 +3408,6 @@
 105C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\cli.js133025966629273085 0
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\error.js133025966631180231 0
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\index.d.ts133025966657660377 0
-107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\index.js133025966639304139 0
 111C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\package.json133025966651190333 0
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\browserslist\parse.js133025966647855101 0
 161C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133025966665833178 0
@@ -3602,6 +3607,7 @@
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-image133025966863530742 1
 117C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\bundler-default\LICENSE133025966658919478 0
 108C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-svgo133025966716297002 1
+101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\icon-close.cac3d951.svg133031201231252823 0
 129C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\node-resolver-core\test\resolver.js133025966839398555 0
 109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\package-manager133025966832533273 1
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\utils\test\prettifyTime.test.js133025966832342365 0
@@ -3893,9 +3899,9 @@
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\plugin\src\PluginAPI.d.ts133025966656581600 0
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\packager-svg\lib133025966656581600 1
 131C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\lib\public\MutableBundleGraph.js133025966851705910 0
-114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\packager-svg\LICENSE133025966654583021 0
-143C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133025966624675991 0
 113C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\config-default\test133025966679376741 1
+143C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\package.json133025966624675991 0
+114C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\packager-svg\LICENSE133025966654583021 0
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133025966860044371 0
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\packager-svg\src133025966658539745 1
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\packager-raw\lib133025966656891412 1
@@ -3948,6 +3954,7 @@
 123C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-terser\package.json133025966664185765 0
 133C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-terser\lib\TerserOptimizer.js133025966660318479 0
 112C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-svgo\lib133025966712270797 1
+99C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.a7519fa3.js.map133031222054302581 0
 121C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-svgo\package.json133025966716639654 0
 119C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\optimizer-image\native.js133025966664985230 0
 145C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope133025966653244988 1
@@ -4151,8 +4158,6 @@
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\dumpGraphToGraphViz.js133025966838032508 0
 120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\PackagerRunner.js133025966855572838 0
 125C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\ParcelConfig.schema.js133025966860603898 0
-109C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@lezer\lr\dist\index.js133025966651760025 0
-122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\summarizeRequest.js133025966867031317 0
 122C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\UncommittedAsset.js133025966874807074 0
 116C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\Validation.js133025966875040994 0
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\core\src\requests\DevDepRequest.js133025966835847056 0
@@ -4189,7 +4194,7 @@
 128C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\config-default\test\config.test.js133025966679641691 0
 120C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\codeframe\lib\codeframe.js133025966742263251 0
 110C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\cache\index.d.ts133025966671791280 0
-100C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.b10d73a7.css.map133030549518314867 0
+100C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.b10d73a7.css.map133031242597126393 0
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\cache\lib133025966672880404 1
 107C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\cache\LICENSE133025966640963722 0
 103C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\@parcel\cache\src133025966668222320 1
@@ -4346,8 +4351,11 @@
 97C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\terser133025966972976910 0
 101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\terser.cmd133025966972976910 0
 101C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\node_modules\.bin\terser.ps1133025966972976910 0
-96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.b10d73a7.css133030549518284910 0
-88C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.html133030547026886912 0
-102C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\landing-page.59712999.js133030547027726321 0
-106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\landing-page.59712999.js.map133030547027746309 0
-95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\logo.cd13699a.svg133030547026836956 0
+95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.8440d59c.js133031213593410520 0
+99C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.8440d59c.js.map133031213593430489 0
+95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.a7519fa3.js133031222054252620 0
+96C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.b10d73a7.css133031242597096418 0
+88C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\index.html133031226865563747 0
+102C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\landing-page.59712999.js133031201231472678 0
+106C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\landing-page.59712999.js.map133031201231512644 0
+95C:\Users\TSC-Autor\Desktop\14313Webprojects\github-projects\landing-page\dist\logo.cd13699a.svg133031201231602580 0

@@ -1,2 +1,2 @@
 # landing-page
- Sample project
+This is from frontendmentor and Kevin Powell
